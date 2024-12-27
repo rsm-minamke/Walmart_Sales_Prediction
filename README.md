@@ -13,6 +13,7 @@ Store Influence: Location impacts weekly sales.
 Method: Group data by store and calculate mean weekly sales to observe differences.
 Seasonal Effects: Seasons affect sales trends.
 Method: Categorize dates into seasonal groups for analysis.
+
 Model Choices:
 Linear Regression:
 
